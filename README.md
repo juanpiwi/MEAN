@@ -10,6 +10,7 @@ To run & work on this project you need to have the following installed
 ## Prerequisite Packages
 
 $ npm install -g gulp
+$ npm install -g bower
 
 ## Installation & Configuration
 Please, follow this steps to install & configure all you need before starting to work on the project:
@@ -17,6 +18,10 @@ Please, follow this steps to install & configure all you need before starting to
 1. Run this to install all the node_modules:
 ```
 $ npm install
+```
+-Windows
+```
+$ git config --global url."https://".insteadOf git://
 ```
 
 ## Update NPM or Gulp
