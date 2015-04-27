@@ -11,29 +11,34 @@ To run & work on this project you need to have the following installed
 
 $ npm install -g gulp
 
-##Installation & Configuration
+## Installation & Configuration
 Please, follow this steps to install & configure all you need before starting to work on the project:
 
 1. Run this to install all the node_modules:
 ```
 $ npm install
+```
 
-##Update NPM or Gulp
+## Update NPM or Gulp
 
-1. Updating NPM
+- Updating NPM
 ```
 $ npm update -g npm
+```
 
-2. Updating Gulp
+- Updating Gulp
 ```
 $npm update -g gulp
+```
 
 ##Cleaning
 
-1. Clean NPM
+- Clean NPM
 ```
 $npm cache clean
+```
 
 ##Installation problems on Windows
 ```
 $npm update -g
+```
